@@ -1,0 +1,63 @@
+Show_Id,Title,Genre,IMDb,Episodes,Year,Platform_Id
+101,Breaking Bad,Crime Drama,9.5,62,2008,501
+102,Planet Earth II,Documentary,9.5,6,2016,502
+103,Band of Brothers,Drama,9.4,10,2001,503
+104,Chernobyl,Historical Drama,9.3,5,2019,504
+105,The Wire,Crime Drama,9.3,60,2002,505
+106,Blue Planet II,Documentary,9.3,7,2017,506
+107,Game of Thrones,Fantasy,9.2,73,2011,507
+108,The Sopranos,Crime Drama,9.2,86,1999,508
+109,Rick and Morty,Animation,9.1,61,2013,509
+110,Sherlock,Detective-Fiction,9.1,13,2010,510
+111,Better Call Saul,Crime Drama,9,63,2015,511
+112,The Office (US),Comedy,9,201,2005,512
+113,Fargo,Crime Drama,8.9,41,2014,513
+114,Friends,Comedy,8.9,236,1994,514
+115,Narcos,Crime Drama,8.8,30,2015,515
+116,The Last of Us,Action,8.8,9,2023,516
+117,Peaky Blinders,Crime Drama,8.8,36,2013,517
+118,The Boys,Action,8.7,32,2019,518
+119,Dark,Science-Fiction,8.7,26,2017,519
+120,The Mandalorian,Action,8.7,24,2019,520
+121,Stranger Things,Fantasy,8.7,42,2016,521
+122,The Crown,Historical Drama,8.6,60,2016,522
+123,Mindhunter,Phsycological Crime,8.6,19,2017,523
+124,The Haunting of Hill House,Supernatural Horror,8.6,10,2018,524
+125,House of the Dragon,Fantasy Drama,8.5,10,2022,525
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Platform_Id,Platform,,,,,
+501,Netflix,,,,,
+502,BBC iPlayer,,,,,
+503,HBO Max,,,,,
+504,HBO Max,,,,,
+505,HBO Max,,,,,
+506,BBC iPlayer,,,,,
+507,HBO Max,,,,,
+508,HBO Max,,,,,
+509,Netflix/Hulu,,,,,
+510,Prime Video,,,,,
+511,Netflix,,,,,
+512,Peacock,,,,,
+513,Hulu,,,,,
+514,Netflix,,,,,
+515,Netflix,,,,,
+516,HBO Max,,,,,
+517,Netflix,,,,,
+518,Prime Video,,,,,
+519,Netflix,,,,,
+520,Disney+,,,,,
+521,Netflix,,,,,
+522,Netflix,,,,,
+523,Netflix,,,,,
+524,Netflix,,,,,
+525,HBO Max,,,,,
